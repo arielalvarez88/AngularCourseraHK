@@ -1,0 +1,24 @@
+{
+  "name": "angular-course-hk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite" : "lite-server",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielalvarez88/AngularCourseraHK.git"
+  },
+  "author": "Ariel Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielalvarez88/AngularCourseraHK/issues"
+  },
+  "homepage": "https://github.com/arielalvarez88/AngularCourseraHK#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
